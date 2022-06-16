@@ -1,0 +1,8 @@
+li a {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    color: white;
+    background: white url("images/background.webp") no-repeat;
+}
